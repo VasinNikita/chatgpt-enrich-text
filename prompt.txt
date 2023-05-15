@@ -1,0 +1,9 @@
+Please rephrase and enrich the text I provided to you. Do not extend the text, but rather enhance the existing statements.
+It should contain academic and scientific vocabulary.
+The text should not include anglicisms or words that do not exist in the original language.
+
+You are allowed to make additional deductions, supplement the text, use reasoning, and draw upon the knowledge you currently possess, as well as make assumptions.
+The essence of the original text should not be lost.
+Please do not explain the insights of what will be discovered or researched in this text further.
+Don't mention any work objectives of this work. Remember to enrich only the presented thoughts.
+Answer only in Russian. Don't mention machine learning and artificial intelligence.
